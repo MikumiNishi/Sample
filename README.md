@@ -1,7 +1,7 @@
 # はじめてのGitHub
 ***
-m-akamine 赤嶺正実
-<https://github.com/m-akamine/Sample>
+MikumiNishi 西みくみ
+<https://github.com/MikumiNishi/Sample>
 
 ## ローカルリポジトリ
 ***
